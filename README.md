@@ -682,3 +682,5 @@ AI/ML enthusiast · Full-stack developer · Document intelligence systems
 Built with **FastAPI** · **React** · **Streamlit** · **FAISS** · **Sentence Transformers** · **Groq** · **PyMuPDF** · **Docker**
 
 </div>
+
+<!-- repo-metadata: clean-contributor-history -->
