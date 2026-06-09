@@ -1,0 +1,32 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# Secrets — NEVER commit
+.env
+.env.local
+.streamlit/secrets.toml
+
+# User data & indexes — NEVER commit
+uploads/*
+!uploads/.gitkeep
+vectorstore/*
+!vectorstore/.gitkeep
+data/
+
+# Frontend / OS
+node_modules/
+frontend/dist/
+.DS_Store
+
+# IDE / dev containers (optional local only)
+.devcontainer/
+.idea/
+.vscode/
+
+# Logs & temp
+*.log
+*.tmp
